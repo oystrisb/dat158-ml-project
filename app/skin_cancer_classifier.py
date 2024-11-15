@@ -38,5 +38,5 @@ iface = gr.Interface(
     outputs=label,       
 )
 
-# Launch the Gradio interface to allow users to interact with the model
+# Launch the Gradio interface
 iface.launch(share=True)
