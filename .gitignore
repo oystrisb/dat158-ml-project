@@ -6,5 +6,5 @@
 .vscode/
 # Ignore Gradio files
 .gradio/
-# ignore model files
-model/
+# ignore h5 files
+*.h5
